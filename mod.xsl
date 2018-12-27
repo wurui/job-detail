@@ -100,7 +100,7 @@
             			<tr>
             				<td class="fieldtitle">邮箱</td>
             				<td>
-            					<xsl:value-of select="contact"/>
+            					<xsl:value-of select="contact"/>　
             				</td>
             			</tr>
             			
